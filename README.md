@@ -1,3 +1,9 @@
+# Executar/Testar Sistema 
+- Criar uma pasta no C:\ com o nome exemplo "BDMG" e colocar os arquivos "BDMG.exe", "Server.exe" e "config.ini" dentro dela.
+- Configurar os dados de conexão em "config.ini".
+- Executar o executável do serviço "Server.exe". (Obs: Serviço roda na porta: 9091)
+- Executar o sistema "BDMG.exe" e testar as funcionalidades.
+
 # Banco BDMG - Tarefas
 
 Script de criação do banco `BDMG`, da tabela `tarefas` e da trigger `trg_Tarefas_DataConclusao`.
